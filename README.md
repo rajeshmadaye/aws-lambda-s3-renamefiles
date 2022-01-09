@@ -35,4 +35,3 @@ sam deploy --region $AWSRegion --profile $ProfileName --s3-bucket $BucketName --
 ## License
 MIT
 
-**Free Software, Keep Learning!**
